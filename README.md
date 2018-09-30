@@ -4,7 +4,8 @@ the [NAIF SPICE Toolkit](https://naif.jpl.nasa.gov/naif/toolkit.html).
 
 # Installation
 Refer to the [SpiceyPy installation instructions](https://github.com/AndrewAnnex/SpiceyPy/blob/master/docs/installation.rst)
-Make sure your Python installation is up to date to avoid SSL errors.
+Make sure your Python installation is up to date to avoid SSL errors. **Be sure you are using a 64-bit version of 
+python!**
 
 # Downloading Data Sets
 Datasets can be obtained from the [PDS NAIF Archives](https://naif.jpl.nasa.gov/naif/data_archived.html). 
